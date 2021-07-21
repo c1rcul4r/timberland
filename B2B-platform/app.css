@@ -5,9 +5,9 @@
 @font-face {
   font-family: 'GT Flexa TL';
   src: url('webfont.eot?#iefix') format('embedded-opentype'),
-  url('https://github.com/c1rcul4r/timberland/blob/main/B2B-platform/font/GT-Flexa-TL-Black.woff2') format('woff2'),
-  url('https://github.com/c1rcul4r/timberland/blob/main/B2B-platform/font/GT-Flexa-TL-Black.woff') format('woff'),
-  url('https://github.com/c1rcul4r/timberland/blob/main/B2B-platform/font/GT-Flexa-TL-Black.ttf')  format('truetype')
+  url('https://raw.githubusercontent.com/c1rcul4r/timberland/main/B2B-platform/font/GT-Flexa-TL-Black.woff2') format('woff2'),
+  url('https://raw.githubusercontent.com/c1rcul4r/timberland/main/B2B-platform/font/GT-Flexa-TL-Black.woff') format('woff'),
+  url('https://raw.githubusercontent.com/c1rcul4r/timberland/main/B2B-platform/font/GT-Flexa-TL-Black.ttf')  format('truetype')
 }
 
 body {
